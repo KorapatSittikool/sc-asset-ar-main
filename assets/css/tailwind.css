@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-bold_italic.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-bold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-heavy_italic.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-heavy.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-light_Italic.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-light.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-regular-italic.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EQ_Headline';
+  src: local("EQ_Headline"),
+    url('~/assets/fonts/EQ Headline/EQ_Headline-regular.otf') format('truetype');
+}
+
+@tailwind utilities;
+
+/* * {
+  font-family: "DB_Heavent";
+} */
